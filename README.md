@@ -1,6 +1,6 @@
 # Tinder-Bot
 
-Create a file ```sectets.py ```
+Create a file ```secrets.py ```
 
 Initialize variables with 
   
