@@ -11,7 +11,7 @@ Initialize variables with
 pip install selenium
 ```
 and 
-you need to install Chrome chromedriver from (Chrome Driver)[http://chromedriver.chromium.org/]
+you need to install Chrome chromedriver from [Chrome Driver](http://chromedriver.chromium.org/)
 
 and you are good to go!!
 
