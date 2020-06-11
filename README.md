@@ -1,11 +1,12 @@
 # Tinder-Bot
 
-Create a file ```python sectets.py ```
+Create a file ```sectets.py ```
+
 Initialize variables with 
   
-  > username = ''
+  > username = 'your_username'
   
-  > password = ''
+  > password = 'your_password'
 
 ## Launching It
 > Windows
