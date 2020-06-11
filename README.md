@@ -2,8 +2,10 @@
 
 Create a file ```python sectets.py ```
 Initialize variables with 
-  username = ''
-  password = ''
+  
+  > username = ''
+  
+  > password = ''
 
 ## Launching It
 > Windows
